@@ -16,12 +16,10 @@ uma nova pasta deve ter sido criada, faça as alterações que quiser no projeto
 
 1. se você está seguindo o caminho da dor (cmd), digite os seguintes comandos no terminal: `git add --all`, `git commit -m "sua-mensagem"`, `git push origin main`
 
-2. se está usando o VSCode, aperte Ctrl+Shift+G, adicione todas as mudanças que você fez com o '+'(add) do lado dos arquivos da lista que vai aparecer na barra esquerda do programa, digite uma mensagem na caixa de texto e aperte o botão ✔ (commit), depois, lá na barra inferior do programa, aperte o botão que aparece na imagem abaixo(push).
+2. se está usando o VSCode, aperte Ctrl+Shift+G, adicione todas as mudanças que você fez com o '+'(add) do lado dos arquivos da lista que vai aparecer na barra esquerda do programa, digite uma mensagem na caixa de texto e aperte o botão ✔ (commit), depois, lá na barra inferior do programa, aperte o botão que aparece na imagem abaixo(push), ou digite os comandos do passo 1 no terminal do VSCode.
 
 ![VSCode](/img/VSCode.jpg)
 
-ou digite os comandos do passo 1 no terminal do VSCode
-
-Pronto, mudança feita.
+Pronto, mudança feita, espero que tenha valido a pena.
 
 ![Saco de carvão](/img/logo.png)
