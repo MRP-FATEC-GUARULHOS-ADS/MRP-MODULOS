@@ -1,4 +1,4 @@
-#MRP FATEC Guarulhos, ADS
+# MRP FATEC Guarulhos, ADS
 
 Pra contribuir com o projeto baixe e instale o [Git](https://git-scm.com/downloads) no seu computador, escolha uma pasta de trabalho e faça um dos dois seguintes caminhos:
 
