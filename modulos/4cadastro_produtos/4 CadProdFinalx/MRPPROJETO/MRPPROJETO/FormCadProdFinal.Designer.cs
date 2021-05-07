@@ -459,6 +459,7 @@
             this.Name = "FormCadProdFinal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro de Produto Final";
+            this.Load += new System.EventHandler(this.FormCadProdFinal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DgProdutosFinais)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

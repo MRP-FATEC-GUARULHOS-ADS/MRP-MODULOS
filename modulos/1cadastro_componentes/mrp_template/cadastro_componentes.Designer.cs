@@ -426,7 +426,7 @@
             // 
             this.Ajuda_tsmsi.Name = "Ajuda_tsmsi";
             this.Ajuda_tsmsi.ShortcutKeys = System.Windows.Forms.Keys.F1;
-            this.Ajuda_tsmsi.Size = new System.Drawing.Size(160, 22);
+            this.Ajuda_tsmsi.Size = new System.Drawing.Size(180, 22);
             this.Ajuda_tsmsi.Text = "Exibir ajuda";
             this.Ajuda_tsmsi.ToolTipText = "Abre a página de ajuda do programa";
             this.Ajuda_tsmsi.Click += new System.EventHandler(this.Ajuda_tsmsi_Click);
@@ -435,7 +435,7 @@
             // 
             this.Equipe_tsmsi.Name = "Equipe_tsmsi";
             this.Equipe_tsmsi.ShortcutKeys = System.Windows.Forms.Keys.F4;
-            this.Equipe_tsmsi.Size = new System.Drawing.Size(160, 22);
+            this.Equipe_tsmsi.Size = new System.Drawing.Size(180, 22);
             this.Equipe_tsmsi.Text = "Sobre";
             this.Equipe_tsmsi.ToolTipText = "Abre a página de informações dos desenvolvedores do programa";
             this.Equipe_tsmsi.Click += new System.EventHandler(this.Equipe_tsmsi_Click);

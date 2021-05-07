@@ -7,3 +7,13 @@ C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\4cadastro_produtos\4 Ca
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\4cadastro_produtos.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\MRPPROJETO.exe
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\MRPPROJETO.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\bin\Debug\MRPPROJETO.exe.config
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\bin\Debug\MRPPROJETO.exe
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\bin\Debug\MRPPROJETO.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\MRPPROJETO.FormCadProdFinal.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\MRPPROJETO.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\4cadastro_produtos.csproj.GenerateResource.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\4cadastro_produtos.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\MRPPROJETO.exe
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\MRPPROJETO.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\obj\Debug\4cadastro_produtos.csprojAssemblyReference.cache

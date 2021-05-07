@@ -229,6 +229,16 @@ namespace MRPPROJETO
                 txtProcessador.Text = (string)dados.Rows[0][9];
                 txtCooler.Text = (string)dados.Rows[0][10];
                 txtPlacadeVideo.Text = (string)dados.Rows[0][11];
+
+                string SQL = "SELECT * FROM tb_produtofinal WHERE Codigo = " + textBox1.Text + "";
+
+                OleDbDataAdapter adapter = new OleDbDataAdapter(SQL, con);
+
+                DataSet DS = new DataSet();
+
+                adapter.Fill(DS, "tb_produtofinal");
+
+                DgProdutosFinais.DataSource = DS.Tables["tb_produtofinal"];
             }
             catch (Exception erro)
             {
@@ -242,16 +252,27 @@ namespace MRPPROJETO
 
         }
 
+        private void AbreArquivo(string caminho)
+        {
+            string caminhoInicial = Application.StartupPath;
+            string caminhoArquivo = caminhoInicial.Substring(0, caminhoInicial.Length - 9) + caminho;
+            System.Diagnostics.Process.Start(caminhoArquivo);
+        }
+
         private void fichasTécnicasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("file:///C:/Users/Marco/OneDrive/Documentos/PROJETO%20MRP/MRPPROJETO/fichatécnica.html");
+            AbreArquivo(@"assets\2cadastro_produtofinal\fichatecnica.html");
         }
 
         private void ajudaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("file:///C:/Users/Marco/OneDrive/Documentos/PROJETO%20MRP/MRPPROJETO/xpto1.html");
+            AbreArquivo(@"assets\2cadastro_produtofinal\xpto1.html");
         }
 
+        private void FormCadProdFinal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

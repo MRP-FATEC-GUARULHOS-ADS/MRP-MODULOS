@@ -10,3 +10,16 @@ C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\1cadastro_componentes\m
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\1cadastro_componentes.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.exe
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\bin\Debug\cadastro_componentes.exe.config
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\bin\Debug\cadastro_componentes.exe
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\bin\Debug\cadastro_componentes.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\1cadastro_componentes.csprojAssemblyReference.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.Form0_login.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.Main_form.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.Sec_form.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.Form3_detalhes.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\1cadastro_componentes.csproj.GenerateResource.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\1cadastro_componentes.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.exe
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\1cadastro_componentes\mrp_template\obj\Debug\cadastro_componentes.pdb
