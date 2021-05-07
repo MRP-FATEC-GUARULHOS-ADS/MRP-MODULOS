@@ -16,7 +16,7 @@ Uma nova pasta deve ter sido criada dentro do diretório, essa é a pasta do pro
 
 1. se você está seguindo o caminho da dor (cmd), digite os seguintes comandos no terminal: `git cd MRP-MODULOS`, `git add --all`, `git commit -m "sua-mensagem"`, `git push origin main`
 
-2. se está usando o VSCode, abra a pasta do projeto no programa, aperte Ctrl+Shift+G, vai abrir-se uma aba de Source Control do lado esquerdo, nessa aba adicione todas as mudanças que você fez com o '+'(add) do lado dos arquivos alterados na lista, digite uma mensagem na caixa de texto e aperte o botão ✔ (commit), depois, lá na barra inferior do programa, aperte o botão que aparece na imagem abaixo 🗘(push), ou digite os comandos do passo 1 no terminal do VSCode.
+2. se está usando o VSCode, abra a pasta do projeto no programa, aperte Ctrl+Shift+G, vai abrir-se uma aba de Source Control do lado esquerdo, nessa aba adicione todas as mudanças que você fez com o + (add) do lado dos arquivos alterados na lista, digite uma mensagem na caixa de texto e aperte o botão ✔ (commit), depois, lá na barra inferior do programa, aperte o botão que aparece na imagem abaixo 🗘 (push), ou digite os comandos do passo 1 no terminal do VSCode.
 
 ![VSCode](/img/VSCode.jpg)
 

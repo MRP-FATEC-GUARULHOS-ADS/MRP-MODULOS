@@ -1,0 +1,44 @@
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe.config
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.pdb
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csprojAssemblyReference.cache
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Estoque_prod.resources
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Properties.Resources.resources
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.GenerateResource.cache
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.CoreCompileInputs.cache
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.exe
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.pdb
+C:\Users\gszuc\Desktop\Jane C#\Controle_de_estoque_prod\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Form2.resources
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe.config
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.pdb
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csprojAssemblyReference.cache
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Estoque_prod.resources
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Form2.resources
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Properties.Resources.resources
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.GenerateResource.cache
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.CoreCompileInputs.cache
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.exe
+C:\Users\gszuc\Desktop\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.pdb
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe.config
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.pdb
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csprojAssemblyReference.cache
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Estoque_prod.resources
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Form2.resources
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.GenerateResource.cache
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.exe
+C:\Users\Marco\OneDrive\Documentos\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.pdb
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe.config
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.exe
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\bin\Debug\Controle_de_estoque_prod.pdb
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csprojAssemblyReference.cache
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Estoque_prod.resources
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Form2.resources
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.Properties.Resources.resources
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.GenerateResource.cache
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.exe
+C:\Users\Dev\Downloads\MRP_Fatec_v4\MRP_Fatec\MRP_Fatec (1)\MRP_Fatec\Estoque09-12\Estoque\Controle_de_estoque_prod\obj\Debug\Controle_de_estoque_prod.pdb

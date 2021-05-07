@@ -1,0 +1,24 @@
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\bin\Debug\ModuloCompras.exe.config
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\bin\Debug\ModuloCompras.exe
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\bin\Debug\ModuloCompras.pdb
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.Ajuda.resources
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.CadastrarFornecedor.resources
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.Form1.resources
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.exe
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.pdb
+C:\Users\Ricardo\Desktop\ModuloCompras\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.csprojAssemblyReference.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\bin\Debug\ModuloCompras.exe.config
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\bin\Debug\ModuloCompras.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\bin\Debug\ModuloCompras.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.csprojAssemblyReference.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.Ajuda.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.CadastrarFornecedor.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.Form1.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.Properties.Resources.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.csproj.GenerateResource.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo3\ModuloCompras\ModuloCompras\obj\Debug\ModuloCompras.pdb

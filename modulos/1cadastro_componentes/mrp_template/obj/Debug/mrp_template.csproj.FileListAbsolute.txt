@@ -1,0 +1,48 @@
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\bin\Debug\mrp_template.exe.config
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\bin\Debug\mrp_template.exe
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\bin\Debug\mrp_template.pdb
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.main_form.resources
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.exe
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.pdb
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.sec_form.resources
+C:\Users\Ricardo\Desktop\mrp_template\mrp_template\obj\Debug\mrp_template.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\mrp\mrp_template\bin\Debug\mrp_template.exe.config
+C:\Users\Ricardo\Desktop\mrp\mrp_template\bin\Debug\mrp_template.exe
+C:\Users\Ricardo\Desktop\mrp\mrp_template\bin\Debug\mrp_template.pdb
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.main_form.resources
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.sec_form.resources
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.exe
+C:\Users\Ricardo\Desktop\mrp\mrp_template\obj\Debug\mrp_template.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\bin\Debug\mrp_template.exe.config
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\bin\Debug\mrp_template.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\bin\Debug\mrp_template.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.csprojAssemblyReference.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.main_form.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.sec_form.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.Properties.Resources.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.csproj.GenerateResource.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\fábrica de computadores\mrp\mrp_template\obj\Debug\mrp_template.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\mrp_template.exe.config
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\mrp_template.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\mrp_template.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.main_form.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.sec_form.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.Properties.Resources.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.csproj.GenerateResource.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.Form0_login.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.Form3_detalhes.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.g.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\DBP1-MRP_final.mdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\mrp_template.csprojAssemblyReference.cache

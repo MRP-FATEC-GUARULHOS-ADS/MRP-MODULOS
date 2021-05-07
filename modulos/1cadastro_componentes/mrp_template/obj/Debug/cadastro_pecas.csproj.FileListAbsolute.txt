@@ -1,0 +1,13 @@
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\cadastro_pecas.exe.config
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\cadastro_pecas.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\bin\Debug\cadastro_pecas.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.Form0_login.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.Main_form.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.Sec_form.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.Form3_detalhes.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.Properties.Resources.resources
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.csproj.GenerateResource.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.exe
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.pdb
+C:\Users\Ricardo\OneDrive - Fatec Centro Paula Souza\2semestre\3LinguagemdeProgramacao\sacoDeCarvao\_modulo1\mrp_template\obj\Debug\cadastro_pecas.csprojAssemblyReference.cache
