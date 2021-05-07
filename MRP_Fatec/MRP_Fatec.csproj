@@ -113,10 +113,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\MRP - Controle de Estoque de Produto Final\MRP - Controle de Estoque de Produto Final\mrp_template\EstoqueFinal.csproj">
-      <Project>{60435236-397f-429c-b557-f05934734ac6}</Project>
-      <Name>EstoqueFinal</Name>
-    </ProjectReference>
     <ProjectReference Include="..\modulos\1cadastro_componentes\mrp_template\1cadastro_componentes.csproj">
       <Project>{f139faac-bb15-4eb3-8b74-877e53ba727c}</Project>
       <Name>cadastro_componentes</Name>
