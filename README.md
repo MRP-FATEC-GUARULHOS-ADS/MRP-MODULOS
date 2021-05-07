@@ -1,24 +1,28 @@
 # MRP FATEC Guarulhos, ADS
 
-Pra contribuir com o projeto baixe e instale o [Git](https://git-scm.com/downloads) no seu computador, escolha uma pasta de trabalho e faça um dos dois seguintes caminhos:
+Pra contribuir com o projeto baixe e instale o [Git](https://git-scm.com/downloads) no seu computador, abra o Visual Studio, espere o VS abrir ... espere... escolha a opção clonar um repositório se for sua primeira vez abrindo o projeto
 
-1. [Navegue até a pasta pelo cmd](https://publiquesites.com/como-abrir-e-navegar-nas-pastas-com-prompt-de-comando-do-windows-8)
+![VSCode](/img/vs-git1.jpg)
 
-2. Abra a pasta pelo [Visual Studio Code](https://code.visualstudio.com/Download) e entre no terminal do próprio VSCode
+Depois disso digite o endereço do projeto na caixa de Local do repositório, escolha a pasta onde o repositório será criado e clique em Clonar, espere...
 
-Depois de seguir um dos passos anteriores, digite no terminal o seguinte comando:
-
-```shell script
-git clone https://github.com/MRP-FATEC-GUARULHOS-ADS/MRP-MODULOS.git
+```
+https://github.com/MRP-FATEC-GUARULHOS-ADS/MRP-MODULOS.git
 ```
 
-Uma nova pasta deve ter sido criada dentro do diretório, essa é a pasta do projeto, faça as alterações que quiser dentro dela e depois:
+![VSCode](/img/vs-git2.jpg)
 
-1. se você está seguindo o caminho da dor (cmd), digite os seguintes comandos no terminal: `git cd MRP-MODULOS`, `git add --all`, `git commit -m "sua-mensagem"`, `git push origin main`
+Pronto, você já tem acesso ao projeto que a gente tá usando, agora precisa se certificar que toda vez que vai alterar alguma coisa o projeto esteja atualizado, pra isso cheque sempre no canto inferior direito do programa, uma setinha pra cima ↑ indica que tem mudanças que você fez e ainda não compartilhou, enquanto uma setinha pra baixo indica que tem mudanças online que você ainda não baixou, tenha certeza de sempre estar atualizado e no *branch* ceto do projeto e faça suas alterações
 
-2. se está usando o VSCode, abra a pasta do projeto no programa, aperte Ctrl+Shift+G, vai abrir-se uma aba de Source Control do lado esquerdo, nessa aba adicione todas as mudanças que você fez com o + (add) do lado dos arquivos alterados na lista, digite uma mensagem na caixa de texto e aperte o botão ✔ (commit), depois, lá na barra inferior do programa, aperte o botão que aparece na imagem abaixo 🗘 (push), ou digite os comandos do passo 1 no terminal do VSCode.
+![VSCode](/img/vs-git3.jpg)
 
-![VSCode](/img/VSCode.jpg)
+Depois de feitas as alterações que você quer, abra a aba 'Team Explorer', em `Exibir > Team Explorer`, ou clique no lápis no canto inferior direito do programa, a tela da imagem abaixo será aberta, digite uma mensagem que expresse suas mudanças de forma clara, clique no + e confirme tudo
+
+![VSCode](/img/vs-git4.jpg)
+
+Então clique na seta do canto inferior direito e na aba que se abrir clique em 'Enviar por push'.
+
+![VSCode](/img/vs-git5.jpg)
 
 Pronto, mudança feita, espero que tenha valido a pena.
 
