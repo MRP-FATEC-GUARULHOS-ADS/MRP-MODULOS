@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCadProdFinal));
             this.lblCodigo = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblTipo = new System.Windows.Forms.Label();
             this.txtCodigo = new System.Windows.Forms.TextBox();
             this.txtTipo = new System.Windows.Forms.TextBox();
             this.lblMarca = new System.Windows.Forms.Label();
@@ -44,17 +44,17 @@
             this.txtProcessador = new System.Windows.Forms.TextBox();
             this.txtCooler = new System.Windows.Forms.TextBox();
             this.txtPlacadeVideo = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.txtnomedaempresa = new System.Windows.Forms.TextBox();
+            this.lblDiscoRigido = new System.Windows.Forms.Label();
+            this.lblAno = new System.Windows.Forms.Label();
+            this.lblModelo = new System.Windows.Forms.Label();
+            this.lblPlacadeVideo = new System.Windows.Forms.Label();
+            this.lblCooler = new System.Windows.Forms.Label();
+            this.lblProcessador = new System.Windows.Forms.Label();
+            this.lblPlacaMae = new System.Windows.Forms.Label();
+            this.lblRam = new System.Windows.Forms.Label();
+            this.lblGabinete = new System.Windows.Forms.Label();
+            this.txtPesquisar = new System.Windows.Forms.TextBox();
+            this.txtNomedaEmpresa = new System.Windows.Forms.TextBox();
             this.BtnCadastrar = new System.Windows.Forms.Button();
             this.BtnConsultar = new System.Windows.Forms.Button();
             this.BtnAlterar = new System.Windows.Forms.Button();
@@ -66,6 +66,8 @@
             this.fichasTécnicasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             ((System.ComponentModel.ISupportInitialize)(this.DgProdutosFinais)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -81,15 +83,15 @@
             this.lblCodigo.TabIndex = 2;
             this.lblCodigo.Text = "Código";
             // 
-            // label2
+            // lblTipo
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(385, 105);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(33, 14);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Tipo";
+            this.lblTipo.AutoSize = true;
+            this.lblTipo.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTipo.Location = new System.Drawing.Point(385, 105);
+            this.lblTipo.Name = "lblTipo";
+            this.lblTipo.Size = new System.Drawing.Size(33, 14);
+            this.lblTipo.TabIndex = 3;
+            this.lblTipo.Text = "Tipo";
             // 
             // txtCodigo
             // 
@@ -197,113 +199,113 @@
             this.txtPlacadeVideo.Size = new System.Drawing.Size(100, 20);
             this.txtPlacadeVideo.TabIndex = 20;
             // 
-            // label1
+            // lblDiscoRigido
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(786, 106);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(81, 14);
-            this.label1.TabIndex = 21;
-            this.label1.Text = "Disco Rígido";
+            this.lblDiscoRigido.AutoSize = true;
+            this.lblDiscoRigido.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDiscoRigido.Location = new System.Drawing.Point(786, 106);
+            this.lblDiscoRigido.Name = "lblDiscoRigido";
+            this.lblDiscoRigido.Size = new System.Drawing.Size(81, 14);
+            this.lblDiscoRigido.TabIndex = 21;
+            this.lblDiscoRigido.Text = "Disco Rígido";
             // 
-            // label3
+            // lblAno
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(704, 106);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(30, 14);
-            this.label3.TabIndex = 22;
-            this.label3.Text = "Ano";
+            this.lblAno.AutoSize = true;
+            this.lblAno.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAno.Location = new System.Drawing.Point(704, 106);
+            this.lblAno.Name = "lblAno";
+            this.lblAno.Size = new System.Drawing.Size(30, 14);
+            this.lblAno.TabIndex = 22;
+            this.lblAno.Text = "Ano";
             // 
-            // label4
+            // lblModelo
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(590, 106);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(49, 14);
-            this.label4.TabIndex = 23;
-            this.label4.Text = "Modelo";
+            this.lblModelo.AutoSize = true;
+            this.lblModelo.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblModelo.Location = new System.Drawing.Point(590, 106);
+            this.lblModelo.Name = "lblModelo";
+            this.lblModelo.Size = new System.Drawing.Size(49, 14);
+            this.lblModelo.TabIndex = 23;
+            this.lblModelo.Text = "Modelo";
             // 
-            // label5
+            // lblPlacadeVideo
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(782, 154);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(93, 14);
-            this.label5.TabIndex = 24;
-            this.label5.Text = "Placa de Vídeo";
+            this.lblPlacadeVideo.AutoSize = true;
+            this.lblPlacadeVideo.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlacadeVideo.Location = new System.Drawing.Point(782, 154);
+            this.lblPlacadeVideo.Name = "lblPlacadeVideo";
+            this.lblPlacadeVideo.Size = new System.Drawing.Size(93, 14);
+            this.lblPlacadeVideo.TabIndex = 24;
+            this.lblPlacadeVideo.Text = "Placa de Vídeo";
             // 
-            // label6
+            // lblCooler
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(695, 154);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(45, 14);
-            this.label6.TabIndex = 25;
-            this.label6.Text = "Cooler";
+            this.lblCooler.AutoSize = true;
+            this.lblCooler.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCooler.Location = new System.Drawing.Point(695, 154);
+            this.lblCooler.Name = "lblCooler";
+            this.lblCooler.Size = new System.Drawing.Size(45, 14);
+            this.lblCooler.TabIndex = 25;
+            this.lblCooler.Text = "Cooler";
             // 
-            // label7
+            // lblProcessador
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(576, 154);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(82, 14);
-            this.label7.TabIndex = 26;
-            this.label7.Text = "Processador";
+            this.lblProcessador.AutoSize = true;
+            this.lblProcessador.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProcessador.Location = new System.Drawing.Point(576, 154);
+            this.lblProcessador.Name = "lblProcessador";
+            this.lblProcessador.Size = new System.Drawing.Size(82, 14);
+            this.lblProcessador.TabIndex = 26;
+            this.lblProcessador.Text = "Processador";
             // 
-            // label8
+            // lblPlacaMae
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(471, 154);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(66, 14);
-            this.label8.TabIndex = 27;
-            this.label8.Text = "Placa Mãe";
+            this.lblPlacaMae.AutoSize = true;
+            this.lblPlacaMae.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlacaMae.Location = new System.Drawing.Point(471, 154);
+            this.lblPlacaMae.Name = "lblPlacaMae";
+            this.lblPlacaMae.Size = new System.Drawing.Size(66, 14);
+            this.lblPlacaMae.TabIndex = 27;
+            this.lblPlacaMae.Text = "Placa Mãe";
             // 
-            // label9
+            // lblRam
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(382, 154);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(47, 14);
-            this.label9.TabIndex = 28;
-            this.label9.Text = "R.A.M.";
+            this.lblRam.AutoSize = true;
+            this.lblRam.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRam.Location = new System.Drawing.Point(382, 154);
+            this.lblRam.Name = "lblRam";
+            this.lblRam.Size = new System.Drawing.Size(47, 14);
+            this.lblRam.TabIndex = 28;
+            this.lblRam.Text = "R.A.M.";
             // 
-            // label10
+            // lblGabinete
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(268, 154);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(60, 14);
-            this.label10.TabIndex = 29;
-            this.label10.Text = "Gabinete";
+            this.lblGabinete.AutoSize = true;
+            this.lblGabinete.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGabinete.Location = new System.Drawing.Point(268, 154);
+            this.lblGabinete.Name = "lblGabinete";
+            this.lblGabinete.Size = new System.Drawing.Size(60, 14);
+            this.lblGabinete.TabIndex = 29;
+            this.lblGabinete.Text = "Gabinete";
             // 
-            // textBox1
+            // txtPesquisar
             // 
-            this.textBox1.Location = new System.Drawing.Point(245, 228);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(524, 20);
-            this.textBox1.TabIndex = 31;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.txtPesquisar.Location = new System.Drawing.Point(245, 228);
+            this.txtPesquisar.Name = "txtPesquisar";
+            this.txtPesquisar.Size = new System.Drawing.Size(524, 20);
+            this.txtPesquisar.TabIndex = 31;
+            this.txtPesquisar.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // txtnomedaempresa
+            // txtNomedaEmpresa
             // 
-            this.txtnomedaempresa.BackColor = System.Drawing.Color.Silver;
-            this.txtnomedaempresa.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtnomedaempresa.Location = new System.Drawing.Point(294, 40);
-            this.txtnomedaempresa.Name = "txtnomedaempresa";
-            this.txtnomedaempresa.Size = new System.Drawing.Size(525, 37);
-            this.txtnomedaempresa.TabIndex = 33;
-            this.txtnomedaempresa.Text = "SACO DE CARVÃO COMPUTADORES - SAC";
+            this.txtNomedaEmpresa.BackColor = System.Drawing.Color.Silver;
+            this.txtNomedaEmpresa.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNomedaEmpresa.Location = new System.Drawing.Point(294, 40);
+            this.txtNomedaEmpresa.Name = "txtNomedaEmpresa";
+            this.txtNomedaEmpresa.Size = new System.Drawing.Size(525, 37);
+            this.txtNomedaEmpresa.TabIndex = 33;
+            this.txtNomedaEmpresa.Text = "SACO DE CARVÃO COMPUTADORES - SAC";
             // 
             // BtnCadastrar
             // 
@@ -414,6 +416,22 @@
             this.ajudaToolStripMenuItem.Text = "Ajuda";
             this.ajudaToolStripMenuItem.Click += new System.EventHandler(this.ajudaToolStripMenuItem_Click);
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(648, 612);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.TabIndex = 41;
+            // 
+            // checkedListBox1
+            // 
+            this.checkedListBox1.FormattingEnabled = true;
+            this.checkedListBox1.Location = new System.Drawing.Point(593, -172);
+            this.checkedListBox1.Name = "checkedListBox1";
+            this.checkedListBox1.Size = new System.Drawing.Size(120, 94);
+            this.checkedListBox1.TabIndex = 42;
+            // 
             // FormCadProdFinal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -421,23 +439,25 @@
             this.BackColor = System.Drawing.SystemColors.MenuBar;
             this.BackgroundImage = global::MRPPROJETO.Properties.Resources.Scc3;
             this.ClientSize = new System.Drawing.Size(1061, 552);
+            this.Controls.Add(this.checkedListBox1);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.BtnPesquisar);
             this.Controls.Add(this.DgProdutosFinais);
             this.Controls.Add(this.BtnExcluir);
             this.Controls.Add(this.BtnAlterar);
             this.Controls.Add(this.BtnConsultar);
             this.Controls.Add(this.BtnCadastrar);
-            this.Controls.Add(this.txtnomedaempresa);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label10);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.txtNomedaEmpresa);
+            this.Controls.Add(this.txtPesquisar);
+            this.Controls.Add(this.lblGabinete);
+            this.Controls.Add(this.lblRam);
+            this.Controls.Add(this.lblPlacaMae);
+            this.Controls.Add(this.lblProcessador);
+            this.Controls.Add(this.lblCooler);
+            this.Controls.Add(this.lblPlacadeVideo);
+            this.Controls.Add(this.lblModelo);
+            this.Controls.Add(this.lblAno);
+            this.Controls.Add(this.lblDiscoRigido);
             this.Controls.Add(this.txtPlacadeVideo);
             this.Controls.Add(this.txtCooler);
             this.Controls.Add(this.txtProcessador);
@@ -451,7 +471,7 @@
             this.Controls.Add(this.lblMarca);
             this.Controls.Add(this.txtTipo);
             this.Controls.Add(this.txtCodigo);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblTipo);
             this.Controls.Add(this.lblCodigo);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -459,7 +479,6 @@
             this.Name = "FormCadProdFinal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro de Produto Final";
-            this.Load += new System.EventHandler(this.FormCadProdFinal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DgProdutosFinais)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -470,7 +489,7 @@
 
         #endregion
         private System.Windows.Forms.Label lblCodigo;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblTipo;
         private System.Windows.Forms.TextBox txtCodigo;
         private System.Windows.Forms.TextBox txtTipo;
         private System.Windows.Forms.Label lblMarca;
@@ -484,17 +503,17 @@
         private System.Windows.Forms.TextBox txtProcessador;
         private System.Windows.Forms.TextBox txtCooler;
         private System.Windows.Forms.TextBox txtPlacadeVideo;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox txtnomedaempresa;
+        private System.Windows.Forms.Label lblDiscoRigido;
+        private System.Windows.Forms.Label lblAno;
+        private System.Windows.Forms.Label lblModelo;
+        private System.Windows.Forms.Label lblPlacadeVideo;
+        private System.Windows.Forms.Label lblCooler;
+        private System.Windows.Forms.Label lblProcessador;
+        private System.Windows.Forms.Label lblPlacaMae;
+        private System.Windows.Forms.Label lblRam;
+        private System.Windows.Forms.Label lblGabinete;
+        private System.Windows.Forms.TextBox txtPesquisar;
+        private System.Windows.Forms.TextBox txtNomedaEmpresa;
         private System.Windows.Forms.Button BtnCadastrar;
         private System.Windows.Forms.Button BtnConsultar;
         private System.Windows.Forms.Button BtnAlterar;
@@ -506,6 +525,8 @@
         private System.Windows.Forms.ToolStripMenuItem sobreToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem fichasTécnicasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.CheckedListBox checkedListBox1;
     }
 }
 

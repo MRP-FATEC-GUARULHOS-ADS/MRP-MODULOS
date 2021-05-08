@@ -205,9 +205,9 @@ namespace MRPPROJETO
 
                 string procura = "SELECT * FROM tb_produtofinal";
 
-                if (textBox1.Text != "")
+                if (txtPesquisar.Text != "")
                 {
-                    procura = "SELECT * FROM tb_produtofinal WHERE Codigo LIKE " + textBox1.Text + "";
+                    procura = "SELECT * FROM tb_produtofinal WHERE Codigo LIKE " + txtPesquisar.Text + "";
                 }
 
                 DataTable dados = new DataTable();
@@ -230,7 +230,7 @@ namespace MRPPROJETO
                 txtCooler.Text = (string)dados.Rows[0][10];
                 txtPlacadeVideo.Text = (string)dados.Rows[0][11];
 
-                string SQL = "SELECT * FROM tb_produtofinal WHERE Codigo = " + textBox1.Text + "";
+                string SQL = "SELECT * FROM tb_produtofinal WHERE Codigo = " + txtPesquisar.Text + "";
 
                 OleDbDataAdapter adapter = new OleDbDataAdapter(SQL, con);
 
@@ -267,11 +267,6 @@ namespace MRPPROJETO
         private void ajudaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AbreArquivo(@"assets\2cadastro_produtofinal\xpto1.html");
-        }
-
-        private void FormCadProdFinal_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
