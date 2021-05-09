@@ -247,11 +247,6 @@ namespace MRPPROJETO
 
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void AbreArquivo(string caminho)
         {
             string caminhoInicial = Application.StartupPath;

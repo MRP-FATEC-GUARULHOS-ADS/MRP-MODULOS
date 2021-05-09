@@ -295,7 +295,6 @@
             this.txtPesquisar.Name = "txtPesquisar";
             this.txtPesquisar.Size = new System.Drawing.Size(524, 20);
             this.txtPesquisar.TabIndex = 31;
-            this.txtPesquisar.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtNomedaEmpresa
             // 
