@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5E43EC04-4B48-4F84-85BE-20B0B789FEB6}</ProjectGuid>
+    <ProjectGuid>{80982285-0286-4192-8C13-6F212084924B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>mrp_template</RootNamespace>
     <AssemblyName>mrp_template</AssemblyName>

@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -50,10 +50,17 @@
   <PropertyGroup>
     <ApplicationIcon>Resources\favicon.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MRP_Fatec.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="ModuloCompras, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\3compras\ModuloCompras.exe</HintPath>
+    </Reference>
+    <Reference Include="mrp_template, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\bin\Debug\mrp_template.exe</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -68,12 +75,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Elementos\ComboBoxCE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elementos\ComboBoxCE.Designer.cs">
+      <DependentUpon>ComboBoxCE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elementos\DetalheSpecPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elementos\DetalheSpecPanel.Designer.cs">
+      <DependentUpon>DetalheSpecPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elementos\ListaView.cs" />
+    <Compile Include="Elementos\RectCE.cs" />
+    <Compile Include="Elementos\SpecPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elementos\SpecPanel.Designer.cs">
+      <DependentUpon>SpecPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elementos\TextBoxCE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elementos\Transform.cs" />
     <Compile Include="Database.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Form0_login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Form0_login.Designer.cs">
+      <DependentUpon>Form0_login.cs</DependentUpon>
     </Compile>
     <Compile Include="Painel.cs">
       <SubType>Form</SubType>
@@ -83,8 +114,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Form0_login.resx">
+      <DependentUpon>Form0_login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Painel.resx">
       <DependentUpon>Painel.cs</DependentUpon>
@@ -115,7 +146,7 @@
   <ItemGroup>
     <ProjectReference Include="..\modulos\1cadastro_componentes\mrp_template\1cadastro_componentes.csproj">
       <Project>{f139faac-bb15-4eb3-8b74-877e53ba727c}</Project>
-      <Name>cadastro_componentes</Name>
+      <Name>1cadastro_componentes</Name>
     </ProjectReference>
     <ProjectReference Include="..\modulos\3compras\ModuloCompras\3compras.csproj">
       <Project>{494e17a7-382c-4b49-a906-5bb46d805cf2}</Project>
@@ -147,6 +178,12 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\1cadastro_componentes\Edit_icone.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

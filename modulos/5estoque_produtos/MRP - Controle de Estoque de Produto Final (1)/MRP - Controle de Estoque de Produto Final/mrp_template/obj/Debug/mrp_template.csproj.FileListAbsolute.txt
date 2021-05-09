@@ -41,3 +41,13 @@ C:\Users\T-Gamer\Downloads\mrp - Form do grupo\mrp_template\obj\Debug\mrp_templa
 C:\Users\T-Gamer\Downloads\mrp - Form do grupo\mrp_template\bin\Debug\mrp_template.exe.config
 C:\Users\T-Gamer\Downloads\mrp - Form do grupo\mrp_template\bin\Debug\mrp_template.exe
 C:\Users\T-Gamer\Downloads\mrp - Form do grupo\mrp_template\bin\Debug\mrp_template.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\bin\Debug\mrp_template.exe.config
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\bin\Debug\mrp_template.exe
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\bin\Debug\mrp_template.pdb
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.csprojAssemblyReference.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.main_form.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.csproj.GenerateResource.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.exe
+C:\Users\Marco\OneDrive\Documentos\Curso\MRP - MODULOS\MRP-MODULOS\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\obj\Debug\mrp_template.pdb

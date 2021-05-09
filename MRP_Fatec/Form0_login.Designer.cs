@@ -1,6 +1,6 @@
-﻿using cadastro_componentes.Componentes;
+﻿using MRP_Fatec.Elementos;
 
-namespace cadastro_componentes
+namespace MRP_Fatec
 {
     partial class Form0_login
     {
@@ -37,11 +37,11 @@ namespace cadastro_componentes
             this.footer_pnl = new System.Windows.Forms.Panel();
             this.main_pnl = new System.Windows.Forms.Panel();
             this.senha_pnl = new System.Windows.Forms.Panel();
-            this.senha_tbc = new cadastro_componentes.Componentes.TextBoxCE();
+            this.senha_tbc = new MRP_Fatec.Elementos.TextBoxCE();
             this.senha_spacerbaixo_pnl = new System.Windows.Forms.Panel();
             this.senha_lbl = new System.Windows.Forms.Label();
             this.user_pnl = new System.Windows.Forms.Panel();
-            this.user_tbc = new cadastro_componentes.Componentes.TextBoxCE();
+            this.user_tbc = new MRP_Fatec.Elementos.TextBoxCE();
             this.user_spacerbaixo_pnl = new System.Windows.Forms.Panel();
             this.user_lbl = new System.Windows.Forms.Label();
             this.header_pnl = new System.Windows.Forms.Panel();
@@ -322,11 +322,11 @@ namespace cadastro_componentes
         private System.Windows.Forms.Panel footer_pnl;
         private System.Windows.Forms.Panel main_pnl;
         private System.Windows.Forms.Panel senha_pnl;
-        private cadastro_componentes.Componentes.TextBoxCE senha_tbc;
+        private MRP_Fatec.Elementos.TextBoxCE senha_tbc;
         private System.Windows.Forms.Panel senha_spacerbaixo_pnl;
         private System.Windows.Forms.Label senha_lbl;
         private System.Windows.Forms.Panel user_pnl;
-        private cadastro_componentes.Componentes.TextBoxCE user_tbc;
+        private MRP_Fatec.Elementos.TextBoxCE user_tbc;
         private System.Windows.Forms.Panel user_spacerbaixo_pnl;
         private System.Windows.Forms.Label user_lbl;
         private System.Windows.Forms.Panel header_pnl;

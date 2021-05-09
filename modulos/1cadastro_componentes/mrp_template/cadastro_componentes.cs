@@ -169,12 +169,6 @@ namespace cadastro_componentes
             }
         }
 
-        /// chama o Form de login
-        private void ChamaLogin()
-        {
-            Form0_login login = new Form0_login();
-            login.ShowDialog();
-        }
         /// chama o Form de cadastro
         private void ChamaCadastro()
         {
@@ -475,9 +469,6 @@ namespace cadastro_componentes
         //// executa quando o form inicia
         private void Main_form_Load(object sender, EventArgs e)
         {
-            // carrega form de login
-            //ChamaLogin(); // desativar pra facilitar os testes
-
             // carrega dados
             InitMsAccessSingleton();
             ListaDados();

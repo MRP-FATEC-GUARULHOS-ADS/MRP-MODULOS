@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Data.OleDb;
 
-namespace cadastro_componentes
+namespace MRP_Fatec
 {
     public partial class Form0_login : Form
     {
@@ -19,7 +19,7 @@ namespace cadastro_componentes
         /// carrega o banco de dados em um dataset
         private void InitMsAccessSingleton()
         {
-            using (OleDbConnection conexaoAccess = MRP_DB.GetInstancia().GetConexao())
+            using (OleDbConnection conexaoAccess = Database.GetInstancia().GetConexao())
             {
                 try
                 {
@@ -66,13 +66,13 @@ namespace cadastro_componentes
         private void TextBoxUserEnter(object sender, EventArgs e)
         {
             user_tbc.BorderColor = SystemColors.Highlight;
-            Main_form.ApagaDummy(user_tbc, userDummy);
+            Painel.ApagaDummy(user_tbc, userDummy);
         }
         //// executa quando a textbox sai de foco
         private void TextBoxUserLeave(object sender, EventArgs e)
         {
             user_tbc.BorderColor = Color.Gray;
-            Main_form.EscreveDummy(user_tbc, userDummy);
+            Painel.EscreveDummy(user_tbc, userDummy);
         }
         //// executa quando o texto eh mudado
         private void TextBoxUserChanged(object sender, EventArgs e)
@@ -83,12 +83,12 @@ namespace cadastro_componentes
         private void TextBoxSenhaEnter(object sender, EventArgs e)
         {
             senha_tbc.BorderColor = SystemColors.Highlight;
-            Main_form.ApagaDummy(senha_tbc, senhaDummy);
+            Painel.ApagaDummy(senha_tbc, senhaDummy);
         }
         private void TextBoxSenhaLeave(object sender, EventArgs e)
         {
             senha_tbc.BorderColor = Color.Gray;
-            Main_form.EscreveDummy(senha_tbc, senhaDummy);
+            Painel.EscreveDummy(senha_tbc, senhaDummy);
         }
         private void TextBoxSenhaChanged(object sender, EventArgs e)
         {
