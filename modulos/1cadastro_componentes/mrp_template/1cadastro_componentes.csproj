@@ -76,12 +76,6 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Componentes\Transform.cs" />
-    <Compile Include="Form0_login.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form0_login.Designer.cs">
-      <DependentUpon>Form0_login.cs</DependentUpon>
-    </Compile>
     <Compile Include="cadastro_componentes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,9 +102,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>_DBP1_MRP_finalDataSet.xsd</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form0_login.resx">
-      <DependentUpon>Form0_login.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="cadastro_componentes.resx">
       <DependentUpon>cadastro_componentes.cs</DependentUpon>
     </EmbeddedResource>

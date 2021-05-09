@@ -3,14 +3,24 @@ using System.Windows.Forms;
 
 namespace MRP_Fatec
 {
-    class Database
+    public class Database
     {
-        public OleDbConnection Conectar()
+        private static readonly Database instanciaAccess = new Database();
+
+        private Database() { }
+
+        public static Database GetInstancia()
         {
-            string path = Application.StartupPath;
-            OleDbConnection con;
-            con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + path + @"\database\DBP1-MRP_final.mdb");
-            return con;
+            return instanciaAccess;
+        }
+
+        public OleDbConnection GetConexao() {
+            // usando o caminho de inicialização
+            string caminho = Application.StartupPath;
+            string pasta = caminho + @"\database\DBP1-MRP_final.mdb";
+            string conn = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + pasta;
+
+            return new OleDbConnection(conn);
         }
     }
 }
