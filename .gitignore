@@ -1,5 +1,6 @@
 .vs/
 
+MRP_Fatec/obj/
 modulos/1cadastro_componentes/mrp_template/obj/
 modulos/2estoque_componentes/Estoque/Controle_de_estoque_prod/obj/
 modulos/3compras/ModuloCompras/obj/
