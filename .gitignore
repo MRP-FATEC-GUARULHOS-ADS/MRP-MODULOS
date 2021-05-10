@@ -1,4 +1,7 @@
 .vs/
 
-cache
-*.cache
+modulos/1cadastro_componentes/mrp_template/obj/
+modulos/2estoque_componentes/Estoque/Controle_de_estoque_prod/obj/
+modulos/3compras/ModuloCompras/obj/
+modulos/4cadastro_produtos/4 CadProdFinalx/MRPPROJETO/MRPPROJETO/obj/
+modulos/5estoque_produtos/MRP - Controle de Estoque de Produto Final (1)/MRP - Controle de Estoque de Produto Final/mrp_template/obj/
