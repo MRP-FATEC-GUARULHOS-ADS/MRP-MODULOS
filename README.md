@@ -22,7 +22,7 @@ Pronto, você já tem acesso ao projeto que a gente tá usando
 
 ## Mantendo o projeto atualizado
 
-Agora precisa se certificar que toda vez que vai alterar alguma coisa o projeto esteja atualizado, pra isso cheque sempre no canto inferior direito do programa, uma setinha pra cima ↑ (Push) indica que tem mudanças que você fez e ainda não compartilhou, enquanto uma setinha pra baixo ↓ (Pull) indica que tem mudanças online que você ainda não baixou, tenha certeza de sempre estar atualizado e no *branch* certo do projeto, que é o `main`*.
+Agora precisa se certificar que toda vez que vai alterar alguma coisa o projeto esteja atualizado, pra isso cheque sempre no canto inferior direito do programa, uma setinha pra cima ↑ (Push) indica que tem mudanças que você fez e ainda não compartilhou, enquanto uma setinha pra baixo ↓ (Pull) indica que tem mudanças online que você ainda não baixou, tenha certeza de sempre estar atualizado e no *branch* certo do projeto, que é o `main`[^1].
 
 ![VSCode](/img/vs-git3.jpg)
 
@@ -42,7 +42,7 @@ Pronto, mudança feita, espero que tenha valido a pena.
 
 ## Branches
 
-Nesse momento o repositório tem 3 branches:
+[^1]:Nesse momento o repositório tem 3 branches:
 
 1. **main**, o branch principal de trabalho, se não tiver certeza em que branch trabalhar, trabalhe nesse e esqueça dos outros.
 
