@@ -64,7 +64,7 @@ Pronto, mudança feita, espero que tenha valido a pena.
     - Diagrama de Caso de Uso
     - Fluxograma
     - Diagrama de Classes
--Banco de dados
+- Banco de dados
     - Subir o banco no Azure
     - Conectar o banco de dados MySQL com o Visual Studio
     - Usar esse banco em todos os módulos ...
