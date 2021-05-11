@@ -48,17 +48,25 @@ Pronto, mudança feita, espero que tenha valido a pena.
 
 [^1]: Nesse momento o repositório tem 3 branches:
 
-1. **main**, o branch principal de trabalho, se não tiver certeza em que branch trabalhar, trabalhe nesse e esqueça dos outros.
+1. **main**, o *branch* principal de trabalho, se não tiver certeza em que *branch* trabalhar, trabalhe nesse e esqueça dos outros.
 
-2. **original**, com o código sem alterações, do jeito que a gente entregou pra Jane no 2° semestre.
+2. **original**, com o código sem alterações, do jeito que a gente entregou pra Jane no 2° semestre, não suba nada aqui, esse *branch* só existe pra *backup*.
 
-3. **testes**, onde um projeto foi criado do zero, com um .gitignore e tudo, se quiser fazer alguma alteração muito extrambólica e tiver medo de quebrar o projeto de todo mundo, pode fazer primeiro nesse branch e depois passar pro main.
+3. **testes**, onde um projeto foi criado do zero, com um .gitignore e tudo, se quiser fazer alguma alteração muito extrambólica e tiver medo de quebrar o projeto de todo mundo, pode fazer primeiro nesse *branch* e depois passar pro main.
 
 ## Coisas à fazer
 
+- Documentação dos módulos
+    - Diagrama de Caso de Uso
+    - Fluxograma
+    - Diagrama de Classes
+- Documentação do projeto
+    - Diagrama de Caso de Uso
+    - Fluxograma
+    - Diagrama de Classes
 - Conectar o banco de dados que o Alécio criou no MySQL
 - Subir esse banco de dados no Azure
-- Padronizar o layout dos projetos
+- Padronizar o layout dos módulos
 - Enterrar o módulo de compras?
 
 ![Saco de carvão](/img/logo.png)
