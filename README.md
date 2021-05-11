@@ -64,9 +64,14 @@ Pronto, mudança feita, espero que tenha valido a pena.
     - Diagrama de Caso de Uso
     - Fluxograma
     - Diagrama de Classes
-- Conectar o banco de dados que o Alécio criou no MySQL
-- Subir esse banco de dados no Azure
-- Padronizar o layout dos módulos
+-Banco de dados
+    - Subir o banco no Azure
+    - Conectar o banco de dados MySQL com o Visual Studio
+    - Usar esse banco em todos os módulos ...
+- Padronizar os módulos
+    - nomenclatura das variáveis e elementos do *layout*
+    - comentários
+    - *layouts*
 - Enterrar o módulo de compras?
 
 ![Saco de carvão](/img/logo.png)
