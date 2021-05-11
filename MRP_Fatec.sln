@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2estoque_componentes", "mod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3compras", "modulos\3compras\ModuloCompras\3compras.csproj", "{494E17A7-382C-4B49-A906-5BB46D805CF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mrp_template", "modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\mrp_template.csproj", "{80982285-0286-4192-8C13-6F212084924B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5estoque_produtos", "modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\5estoque_produtos.csproj", "{80982285-0286-4192-8C13-6F212084924B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

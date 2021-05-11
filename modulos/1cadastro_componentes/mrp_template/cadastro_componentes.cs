@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.OleDb;
 using System.Drawing;
 using System.Windows.Forms;
-using System.Data.OleDb;
+
 using cadastro_componentes.Componentes;
+//using MRP_Fatec.Elementos;
 
 namespace cadastro_componentes
 {

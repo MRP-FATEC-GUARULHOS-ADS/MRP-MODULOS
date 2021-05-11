@@ -298,7 +298,6 @@ namespace MRP_Fatec
             this.MaximizeBox = false;
             this.Name = "Form0_login";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.TopMost = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form0_login_FormClosing);
