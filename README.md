@@ -8,7 +8,7 @@
 
 3. Abra o Visual Studio, espere o VS abrir ... espere ... escolha a opção clonar um repositório.
 
-![VSCode](/img/vs-git1.jpg)
+![abrindo o VS](/img/vs-git1.jpg)
 
 4. Digite o endereço do projeto na caixa de Local do repositório, escolha a pasta onde o repositório será criado e clique em Clonar, espere ...
 
@@ -16,7 +16,7 @@
 https://github.com/MRP-FATEC-GUARULHOS-ADS/MRP-MODULOS.git
 ```
 
-![VSCode](/img/vs-git2.jpg)
+![clonando o repositório](/img/vs-git2.jpg)
 
 Pronto, você já tem acesso ao projeto que a gente tá usando.
 
@@ -24,7 +24,7 @@ Pronto, você já tem acesso ao projeto que a gente tá usando.
 
 Agora toda vez que for abrir o projeto você precisa se certificar que ele esteja atualizado. Pra isso cheque sempre no canto inferior direito do programa, uma setinha pra cima ↑ (Push) indica que tem mudanças que você fez e ainda não compartilhou, enquanto uma setinha pra baixo ↓ (Pull) indica que tem mudanças online que você ainda não baixou, tenha certeza de sempre estar atualizado (setinha pra cima do lado de um número 0) e no *branch* certo do projeto, que é o `main`. [^1]
 
-![VSCode](/img/vs-git3.jpg)
+![Team-explorer](/img/vs-git3.jpg)
 
 ## Como contribuir
 
@@ -34,13 +34,15 @@ Agora toda vez que for abrir o projeto você precisa se certificar que ele estej
 
 3. Clique no + e confirme tudo, ou escolha os arquivos ou pastas que quer adicionar e inclua-os separadamente (clicando com o direito no item e escolhendo `Preparar`).
 
+![dica](/img/dica.png)
+
 Incluir no commit só os arquivos que você alterou diminui a chance de criar conflitos no Git e te torna uma pessoa melhor, mas tenha certeza de incluir todos os arquivos que você alterou.
 
-![VSCode](/img/vs-git4.jpg)
+![commit](/img/vs-git4.jpg)
 
 4. Clique na seta do canto inferior direito e na aba que se abrir clique em 'Enviar por push'.
 
-![VSCode](/img/vs-git5.jpg)
+![push](/img/vs-git5.jpg)
 
 Pronto, mudança feita, espero que tenha valido a pena.
 
