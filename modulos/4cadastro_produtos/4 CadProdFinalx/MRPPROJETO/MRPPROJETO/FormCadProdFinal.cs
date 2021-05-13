@@ -18,7 +18,7 @@ namespace MRPPROJETO
             InitializeComponent();
         }
 
-        private void limpar()
+        public void limpar()
         {
             txtCodigo.Clear();
             txtTipo.Clear();
@@ -35,42 +35,93 @@ namespace MRPPROJETO
             txtCodigo.Focus();
         }
 
-        private void BtnCadastrar_Click(object sender, EventArgs e)
+        public void BtnCadastrar_Click(object sender, EventArgs e)
         {
             try
             {
-                string path = Application.StartupPath;
-                
-                OleDbConnection con = new OleDbConnection(@"Provider = Microsoft.Jet.OLEDB.4.0; Data Source=" + path +  @"\database\DBP1-MRP_final.mdb");
+                if (txtTipo.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo do produto");
+                }
+                else if (txtMarca.Text == "")
+                {
+                    MessageBox.Show("Preencha a marca do produto");
+                }
+                else if (txtModelo.Text == "")
+                {
+                    MessageBox.Show("Preencha o modelo do produto");
+                }
+                else if (txtTipo.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo do produto");
+                }
+                else if (txtAno.Text == "")
+                {
+                    MessageBox.Show("Preencha o ano do produto");
+                }
+                else if (txtDiscorigido.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo do disco rígido do produto");
+                }
+                else if (txtGabinete.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo do gabinete do produto");
+                }
+                else if (txtRAM.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo da RAM produto");
+                }
+                else if (txtPlacaMae.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo da placa mãe do produto");
+                }
+                else if (txtProcessador.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo do processador do produto");
+                }
+                else if (txtCooler.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo do cooler do produto");
+                }
+                else if (txtPlacadeVideo.Text == "")
+                {
+                    MessageBox.Show("Preencha o tipo da placa de video do produto");
+                }
+                else
+                {
 
-                con.Open();
+                    string path = Application.StartupPath;
 
-                string SQL;
+                    OleDbConnection con = new OleDbConnection(@"Provider = Microsoft.Jet.OLEDB.4.0; Data Source=" + path + @"\database\DBP1-MRP_final.mdb");
 
-                SQL = "Insert Into tb_produtofinal(Tipo, Marca, Modelo, Ano, DiscoRigido, Gabinete, RAM, PlacaMae, Processador, Cooler, PlacadeVideo) Values";
+                    con.Open();
 
-                SQL += "('" + txtTipo.Text + "', '" + txtMarca.Text + "', '" + txtModelo.Text + "', '" + txtAno.Text + "', '" + txtDiscorigido.Text + "', '" + txtGabinete.Text + "', '" + txtRAM.Text + "', '" + txtPlacaMae.Text + "', '" + txtProcessador.Text + "', '" + txtCooler.Text + "', '" + txtPlacadeVideo.Text + "')";
+                    string SQL;
 
-                OleDbCommand cmd = new OleDbCommand(SQL, con);
+                    SQL = "Insert Into tb_produtofinal(Tipo, Marca, Modelo, Ano, DiscoRigido, Gabinete, RAM, PlacaMae, Processador, Cooler, PlacadeVideo) Values";
 
-                cmd.ExecuteNonQuery();
+                    SQL += "('" + txtTipo.Text + "', '" + txtMarca.Text + "', '" + txtModelo.Text + "', '" + txtAno.Text + "', '" + txtDiscorigido.Text + "', '" + txtGabinete.Text + "', '" + txtRAM.Text + "', '" + txtPlacaMae.Text + "', '" + txtProcessador.Text + "', '" + txtCooler.Text + "', '" + txtPlacadeVideo.Text + "')";
 
-                MessageBox.Show("Dados cadastrados com sucesso");
+                    OleDbCommand cmd = new OleDbCommand(SQL, con);
 
-                string SQLATT = "SELECT * FROM tb_produtofinal";
+                    cmd.ExecuteNonQuery();
 
-                OleDbDataAdapter adapter = new OleDbDataAdapter(SQLATT, con);
+                    MessageBox.Show("Dados cadastrados com sucesso");
 
-                DataSet DS = new DataSet();
+                    string SQLATT = "SELECT * FROM tb_produtofinal";
 
-                adapter.Fill(DS, "tb_produtofinal");
+                    OleDbDataAdapter adapter = new OleDbDataAdapter(SQLATT, con);
 
-                DgProdutosFinais.DataSource = DS.Tables["tb_produtofinal"];
+                    DataSet DS = new DataSet();
 
-                limpar();
+                    adapter.Fill(DS, "tb_produtofinal");
 
+                    DgProdutosFinais.DataSource = DS.Tables["tb_produtofinal"];
 
-                con.Close();
+                    limpar();
+
+                    con.Close();
+                }
             }
             catch (Exception erro)
             {
@@ -78,7 +129,7 @@ namespace MRPPROJETO
             }
         }
 
-        private void BtnConsultar_Click_1(object sender, EventArgs e)
+        public void BtnConsultar_Click_1(object sender, EventArgs e)
         {
             try
             {
@@ -105,7 +156,7 @@ namespace MRPPROJETO
             }
         }
 
-        private void BtnAlterar_Click_1(object sender, EventArgs e)
+        public void BtnAlterar_Click_1(object sender, EventArgs e)
         {
             try
             {
@@ -156,7 +207,7 @@ namespace MRPPROJETO
             }
         }
 
-        private void BtnExcluir_Click_1(object sender, EventArgs e)
+        public void BtnExcluir_Click_1(object sender, EventArgs e)
         {
             try
             {
@@ -195,7 +246,7 @@ namespace MRPPROJETO
 
         }
 
-        private void BtnPesquisar_Click_1(object sender, EventArgs e)
+        public void BtnPesquisar_Click_1(object sender, EventArgs e)
         {
             try
             {
@@ -247,21 +298,114 @@ namespace MRPPROJETO
 
         }
 
-        private void AbreArquivo(string caminho)
+        public void AbreArquivo(string caminho)
         {
             string caminhoInicial = Application.StartupPath;
             string caminhoArquivo = caminhoInicial.Substring(0, caminhoInicial.Length - 9) + caminho;
             System.Diagnostics.Process.Start(caminhoArquivo);
         }
 
-        private void fichasTécnicasToolStripMenuItem_Click(object sender, EventArgs e)
+        public void fichasTécnicasToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AbreArquivo(@"assets\2cadastro_produtofinal\fichatecnica.html");
         }
 
-        private void ajudaToolStripMenuItem_Click(object sender, EventArgs e)
+        public void ajudaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AbreArquivo(@"assets\2cadastro_produtofinal\xpto1.html");
+        }
+
+        public void alterarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                string path = Application.StartupPath;
+
+                OleDbConnection con = new OleDbConnection(@"Provider = Microsoft.Jet.OLEDB.4.0; Data Source=" + path + @"\database\DBP1-MRP_final.mdb");
+
+                string procura = "SELECT * FROM tb_produtofinal";
+
+                DataTable dados = new DataTable();
+
+                OleDbDataAdapter adpt = new OleDbDataAdapter(procura, con);
+
+                adpt.Fill(dados);
+
+                con.Open();
+
+                string Codigo = DgProdutosFinais.SelectedCells[0].Value.ToString();
+                if (txtPesquisar.Text != "")
+                {
+                    procura = "SELECT * FROM tb_produtofinal WHERE Codigo = " + Codigo;
+                }
+
+                txtCodigo.Text = DgProdutosFinais.SelectedCells[0].Value.ToString();
+                txtTipo.Text = DgProdutosFinais.SelectedCells[1].Value.ToString();
+                txtMarca.Text = DgProdutosFinais.SelectedCells[2].Value.ToString();
+                txtModelo.Text = DgProdutosFinais.SelectedCells[3].Value.ToString();
+                txtAno.Text = DgProdutosFinais.SelectedCells[4].Value.ToString();
+                txtDiscorigido.Text = DgProdutosFinais.SelectedCells[5].Value.ToString();
+                txtPlacaMae.Text = DgProdutosFinais.SelectedCells[6].Value.ToString();
+                txtRAM.Text = DgProdutosFinais.SelectedCells[7].Value.ToString();
+                txtGabinete.Text = DgProdutosFinais.SelectedCells[8].Value.ToString();
+                txtProcessador.Text = DgProdutosFinais.SelectedCells[9].Value.ToString();
+                txtCooler.Text = DgProdutosFinais.SelectedCells[10].Value.ToString();
+                txtPlacadeVideo.Text = DgProdutosFinais.SelectedCells[11].Value.ToString();
+
+                string SQL = "SELECT * FROM tb_produtofinal WHERE Codigo = " + Codigo;
+
+                OleDbDataAdapter adapter = new OleDbDataAdapter(SQL, con);
+
+                DataSet DS = new DataSet();
+
+                adapter.Fill(DS, "tb_produtofinal");
+
+                DgProdutosFinais.DataSource = DS.Tables["tb_produtofinal"];
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show(erro.Message);
+            }
+        }
+
+        public void excluirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string Codigo = DgProdutosFinais.SelectedCells[0].Value.ToString();
+
+                string path = Application.StartupPath;
+
+                OleDbConnection con = new OleDbConnection(@"Provider = Microsoft.Jet.OLEDB.4.0; Data Source=" + path + @"\database\DBP1-MRP_final.mdb");
+
+                con.Open();
+
+                OleDbCommand cmd = new OleDbCommand();
+                cmd.Connection = con;
+
+                cmd.CommandText = " DELETE FROM tb_produtofinal WHERE Codigo = " + Codigo;
+
+                cmd.ExecuteNonQuery();
+
+                limpar();
+
+                string SQLATT = "Select * from tb_produtofinal";
+
+                OleDbDataAdapter adapter = new OleDbDataAdapter(SQLATT, con);
+
+                DataSet DS = new DataSet();
+
+                adapter.Fill(DS, "tb_produtofinal");
+
+                DgProdutosFinais.DataSource = DS.Tables["tb_produtofinal"];
+
+                con.Dispose();
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show(erro.Message);
+            }
         }
     }
 }
