@@ -10,3 +10,15 @@ C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\3compras\ModuloCompras\
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\3compras\ModuloCompras\obj\Debug\3compras.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.exe
 C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.pdb
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\bin\Debug\ModuloCompras.exe.config
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\bin\Debug\ModuloCompras.exe
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\bin\Debug\ModuloCompras.pdb
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\3compras.csprojAssemblyReference.cache
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.Ajuda.resources
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.CadastrarFornecedor.resources
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.Form1.resources
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\3compras.csproj.GenerateResource.cache
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\3compras.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.exe
+C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\modulos\3compras\ModuloCompras\obj\Debug\ModuloCompras.pdb
