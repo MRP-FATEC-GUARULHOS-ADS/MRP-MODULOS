@@ -34,8 +34,6 @@ Agora toda vez que for abrir o projeto você precisa se certificar que ele estej
 
 3. Clique no + e confirme tudo, ou escolha os arquivos ou pastas que quer adicionar e inclua-os separadamente (clicando com o direito no item e escolhendo `Preparar`).
 
-![dica](/img/dica.png)
-
 Incluir no commit só os arquivos que você alterou diminui a chance de criar conflitos no Git e te torna uma pessoa melhor, mas tenha certeza de incluir todos os arquivos que você alterou.
 
 ![commit](/img/vs-git4.jpg)
@@ -45,6 +43,8 @@ Incluir no commit só os arquivos que você alterou diminui a chance de criar co
 ![push](/img/vs-git5.jpg)
 
 Pronto, mudança feita, espero que tenha valido a pena.
+
+![dica](/img/dica.png)
 
 ## Branches
 
