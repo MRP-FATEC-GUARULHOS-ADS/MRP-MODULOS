@@ -54,14 +54,6 @@
     <StartupObject>MRP_Fatec.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ModuloCompras, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\3compras\ModuloCompras.exe</HintPath>
-    </Reference>
-    <Reference Include="mrp_template, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final (1)\MRP - Controle de Estoque de Produto Final\mrp_template\bin\Debug\mrp_template.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -159,6 +151,10 @@
     <ProjectReference Include="..\modulos\2estoque_componentes\Estoque\Controle_de_estoque_prod\2estoque_componentes.csproj">
       <Project>{bd949afa-5c6d-4ecd-9985-dc2a22d90e7e}</Project>
       <Name>2estoque_componentes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final %281%29\MRP - Controle de Estoque de Produto Final\mrp_template\5estoque_componentes.csproj">
+      <Project>{80982285-0286-4192-8c13-6f212084924b}</Project>
+      <Name>5estoque_componentes</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

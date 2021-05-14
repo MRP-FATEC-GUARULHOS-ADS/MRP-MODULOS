@@ -184,3 +184,6 @@ C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\MRP_Fatec\obj\Debug\MRP_Fat
 C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\MRP_Fatec\obj\Debug\MRP_Fatec.csproj.CopyComplete
 C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\MRP_Fatec\obj\Debug\MRP_Fatec.exe
 C:\Users\Marco\OneDrive\Documentos\MRP\MRP - MODULOS\MRP_Fatec\obj\Debug\MRP_Fatec.pdb
+C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\MRP_Fatec\bin\Debug\ModuloCompras.exe
+C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\MRP_Fatec\bin\Debug\ModuloCompras.pdb
+C:\Users\Ricardo\Documents\trabalhos\MRP-MODULOS\MRP_Fatec\bin\Debug\ModuloCompras.exe.config

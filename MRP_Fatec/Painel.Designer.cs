@@ -367,7 +367,7 @@
             this.cad_comp_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.cad_comp_tsmsi.Text = "Cadastro de Componentes";
             this.cad_comp_tsmsi.ToolTipText = "Abre o formulário de cadastro de novas peças";
-            this.cad_comp_tsmsi.Click += new System.EventHandler(this.CadComp_MenuClick);
+            this.cad_comp_tsmsi.Click += new System.EventHandler(this.CadComp_BtnClick);
             // 
             // est_comp_tsmsi
             // 
@@ -376,7 +376,7 @@
             this.est_comp_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.est_comp_tsmsi.Text = "Estoque de Componentes";
             this.est_comp_tsmsi.ToolTipText = "Abre o formulário de informações da peça selecionada";
-            this.est_comp_tsmsi.Click += new System.EventHandler(this.EstComp_MenuClick);
+            this.est_comp_tsmsi.Click += new System.EventHandler(this.EstComp_BtnClick);
             // 
             // compras_tsmsi
             // 
@@ -384,7 +384,7 @@
             this.compras_tsmsi.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D3)));
             this.compras_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.compras_tsmsi.Text = "Compras";
-            this.compras_tsmsi.Click += new System.EventHandler(this.Compras_MenuClick);
+            this.compras_tsmsi.Click += new System.EventHandler(this.Compras_BtnClick);
             // 
             // cad_prod_tsmsi
             // 
@@ -392,7 +392,7 @@
             this.cad_prod_tsmsi.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D4)));
             this.cad_prod_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.cad_prod_tsmsi.Text = "Cadastro de Produtos";
-            this.cad_prod_tsmsi.Click += new System.EventHandler(this.CadProd_MenuClick);
+            this.cad_prod_tsmsi.Click += new System.EventHandler(this.CadProd_BtnClick);
             // 
             // est_prod_tsmsi
             // 
@@ -400,7 +400,7 @@
             this.est_prod_tsmsi.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D5)));
             this.est_prod_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.est_prod_tsmsi.Text = "Estoque de Produtos";
-            this.est_prod_tsmsi.Click += new System.EventHandler(this.EstProd_MenuClick);
+            this.est_prod_tsmsi.Click += new System.EventHandler(this.EstProd_BtnClick);
             // 
             // Ajuda_tsmi
             // 

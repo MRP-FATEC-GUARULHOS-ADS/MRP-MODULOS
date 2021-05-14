@@ -78,33 +78,6 @@ namespace MRP_Fatec
             frm.ShowDialog();
         }
 
-        /// funções do menu
-        private void CadComp_MenuClick(object sender, EventArgs e)
-        {
-            cadastro_componentes.Main_form cadastro_form = new cadastro_componentes.Main_form();
-            cadastro_form.ShowDialog();
-        }
-        private void EstComp_MenuClick(object sender, EventArgs e)
-        {
-            Controle_de_estoque_prod.Estoque_prod frm = new Controle_de_estoque_prod.Estoque_prod();
-            frm.ShowDialog();
-        }
-        private void Compras_MenuClick(object sender, EventArgs e)
-        {
-            ModuloCompras.Form1 frm = new ModuloCompras.Form1();
-            frm.ShowDialog();
-        }
-        private void CadProd_MenuClick(object sender, EventArgs e)
-        {
-            MRPPROJETO.FormCadProdFinal frm = new MRPPROJETO.FormCadProdFinal();
-            frm.ShowDialog();
-        }
-        private void EstProd_MenuClick(object sender, EventArgs e)
-        {
-            mrp_template.main_form frm = new mrp_template.main_form();
-            frm.ShowDialog();
-        }
-
         /// funções do formulário
         private void Main_form_Load(object sender, EventArgs e)
         {
