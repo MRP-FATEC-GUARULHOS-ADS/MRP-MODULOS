@@ -1,16 +1,21 @@
-# Sistema de cadastro de peças  ⛏🗻💎
+# Cadastro de Componentes  ⛏🗻💎
 
 Módulo de cadastro de peças do MRP de uma fabricante de computadores.
+
 Os produtos para produção serão cadastrados em um banco de dados, o usuário deve ser capaz de editar e excluir estes itens, para que posteriormente sejam utilizados por outros módulos do MRP.
 
-![Design](./img/Captura de tela 2020-10-25 201224.png)
+![Design](./img/tela.png)
 
 ## Descrição
 
 Ao iniciar o programa o usuário é apresentado a uma tela de *login*, que invocará o formulário principal caso o funcionário apresente identificação correta.
-No formulário de pesquisa de peças, ao inserir os dados no campo “Pesquisar peças cadastradas” a pesquisa é feita automaticamente e uma lista das peças relevantes é criada a partir do banco de dados. 
+
+No formulário de pesquisa de peças, ao inserir os dados no campo “Pesquisar peças cadastradas” a pesquisa é feita automaticamente e uma lista das peças relevantes é criada a partir do banco de dados.
+
 Ao clicar em cadastrar nova peça é aberto um novo formulário com campos para efetuar o cadastro da nova peça, os campos são Tipo, Marca, Modelo de peça, Largura, Comprimento, Altura e alguns campos de especificações, além de o usuário poder cadastrar até seis fotos da embalagem do produto.
+
 Caso os dados fornecidos estejam na formatação certa o botão de OK se torna ativo, clicando nele é efetuado o cadastro da peça. Ao clicar em Cancelar, os dados são descartados e novamente é aberto o formulário principal, de pesquisa de peças.
+
 Desenvolvido em Windows Forms (.NET 4.7.2).
 
 ![Fluxograma](./img/fluxograma.png)
@@ -53,19 +58,12 @@ Desenvolvido em Windows Forms (.NET 4.7.2).
 
 ### Casos de Uso
 
-![diagrama de casos de uso](./img/casos de uso.svg)
+![diagrama de casos de uso](./img/casosdeuso.svg)
 
 ## Sobre
-Caleb Araujo de Souza
-Cesar Hideki Kimura
-Cleber Heck da Silva
-Daniel Correa Alves
-Ricardo Alves Gomes
-Taylan Peixoto da Silva
+Caleb Araujo de Souza - [Cesar Hideki Kimura](https://github.com/FlopiDeSoap) - Cleber Heck da Silva - Daniel Correa Alves - Filipe de Souza Lobato - [Ricardo Alves Gomes](https://github.com/sleiph) - [Taylan Peixoto da Silva](https://github.com/TaylanPeixoto)
 
 ## Todo
-
-![Fim](./img/tarefas.png)
 
 ### Funcionalidade
 
@@ -90,3 +88,5 @@ Taylan Peixoto da Silva
 - usar classes (feito gente)
 - pesquisar funcoes Async
 - usar a TextboxCE de mãe da MultilinhaCE e da ComboboxCE
+
+![Fim](./img/tarefas.png)

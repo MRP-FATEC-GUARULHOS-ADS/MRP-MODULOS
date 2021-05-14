@@ -144,15 +144,15 @@
       <Project>{494e17a7-382c-4b49-a906-5bb46d805cf2}</Project>
       <Name>3compras</Name>
     </ProjectReference>
-    <ProjectReference Include="..\modulos\4cadastro_produtos\4 CadProdFinalx\MRPPROJETO\MRPPROJETO\4cadastro_produtos.csproj">
+    <ProjectReference Include="..\modulos\4cadastro_produtos\MRPPROJETO\4cadastro_produtos.csproj">
       <Project>{cd661d6e-863d-4c6a-aab9-c7daaedf518c}</Project>
       <Name>4cadastro_produtos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\modulos\2estoque_componentes\Estoque\Controle_de_estoque_prod\2estoque_componentes.csproj">
+    <ProjectReference Include="..\modulos\2estoque_componentes\Controle_de_estoque_prod\2estoque_componentes.csproj">
       <Project>{bd949afa-5c6d-4ecd-9985-dc2a22d90e7e}</Project>
       <Name>2estoque_componentes</Name>
     </ProjectReference>
-    <ProjectReference Include="..\modulos\5estoque_produtos\MRP - Controle de Estoque de Produto Final %281%29\MRP - Controle de Estoque de Produto Final\mrp_template\5estoque_produtos.csproj">
+    <ProjectReference Include="..\modulos\5estoque_produtos\mrp_template\5estoque_produtos.csproj">
       <Project>{80982285-0286-4192-8c13-6f212084924b}</Project>
       <Name>5estoque_produtos</Name>
     </ProjectReference>
