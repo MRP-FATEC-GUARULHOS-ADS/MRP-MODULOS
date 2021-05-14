@@ -36,16 +36,17 @@
             this.cad_comp_btn = new System.Windows.Forms.Button();
             this.h1_img = new System.Windows.Forms.PictureBox();
             this.corpo_pnl = new System.Windows.Forms.Panel();
-            this.header_pnl = new System.Windows.Forms.Panel();
-            this.h1_lbl = new System.Windows.Forms.Label();
-            this.h1_respiro_pnl = new System.Windows.Forms.Panel();
-            this.h1_pad_left_pnl = new System.Windows.Forms.Panel();
             this.main_pnl = new System.Windows.Forms.Panel();
             this.est_prod_pnl = new System.Windows.Forms.Panel();
             this.cad_prod_pnl = new System.Windows.Forms.Panel();
             this.compras_pnl = new System.Windows.Forms.Panel();
             this.est_comp_pnl = new System.Windows.Forms.Panel();
             this.cad_comp_pnl = new System.Windows.Forms.Panel();
+            this.corpo_respiro_pnl = new System.Windows.Forms.Panel();
+            this.header_pnl = new System.Windows.Forms.Panel();
+            this.h1_lbl = new System.Windows.Forms.Label();
+            this.h1_respiro_pnl = new System.Windows.Forms.Panel();
+            this.h1_pad_left_pnl = new System.Windows.Forms.Panel();
             this.spacer_dir_spl = new System.Windows.Forms.Splitter();
             this.spacer_dir_pnl = new System.Windows.Forms.Panel();
             this.spacer_esq_spl = new System.Windows.Forms.Splitter();
@@ -63,16 +64,15 @@
             this.Ajuda_tsmsi = new System.Windows.Forms.ToolStripMenuItem();
             this.Equipe_tsmsi = new System.Windows.Forms.ToolStripMenuItem();
             this.menu_spl = new System.Windows.Forms.Splitter();
-            this.corpo_respiro_pnl = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.h1_img)).BeginInit();
             this.corpo_pnl.SuspendLayout();
-            this.header_pnl.SuspendLayout();
             this.main_pnl.SuspendLayout();
             this.est_prod_pnl.SuspendLayout();
             this.cad_prod_pnl.SuspendLayout();
             this.compras_pnl.SuspendLayout();
             this.est_comp_pnl.SuspendLayout();
             this.cad_comp_pnl.SuspendLayout();
+            this.header_pnl.SuspendLayout();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -173,46 +173,6 @@
             this.corpo_pnl.Size = new System.Drawing.Size(416, 491);
             this.corpo_pnl.TabIndex = 1;
             // 
-            // header_pnl
-            // 
-            this.header_pnl.Controls.Add(this.h1_lbl);
-            this.header_pnl.Controls.Add(this.h1_respiro_pnl);
-            this.header_pnl.Controls.Add(this.h1_img);
-            this.header_pnl.Controls.Add(this.h1_pad_left_pnl);
-            this.header_pnl.Dock = System.Windows.Forms.DockStyle.Top;
-            this.header_pnl.Location = new System.Drawing.Point(35, 0);
-            this.header_pnl.Name = "header_pnl";
-            this.header_pnl.Size = new System.Drawing.Size(346, 96);
-            this.header_pnl.TabIndex = 0;
-            // 
-            // h1_lbl
-            // 
-            this.h1_lbl.BackColor = System.Drawing.Color.Transparent;
-            this.h1_lbl.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.h1_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.h1_lbl.Location = new System.Drawing.Point(94, 0);
-            this.h1_lbl.Name = "h1_lbl";
-            this.h1_lbl.Size = new System.Drawing.Size(252, 96);
-            this.h1_lbl.TabIndex = 1;
-            this.h1_lbl.Text = "MRP\nSaco de Carvão";
-            this.h1_lbl.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // h1_respiro_pnl
-            // 
-            this.h1_respiro_pnl.Dock = System.Windows.Forms.DockStyle.Left;
-            this.h1_respiro_pnl.Location = new System.Drawing.Point(82, 0);
-            this.h1_respiro_pnl.Name = "h1_respiro_pnl";
-            this.h1_respiro_pnl.Size = new System.Drawing.Size(12, 96);
-            this.h1_respiro_pnl.TabIndex = 2;
-            // 
-            // h1_pad_left_pnl
-            // 
-            this.h1_pad_left_pnl.Dock = System.Windows.Forms.DockStyle.Left;
-            this.h1_pad_left_pnl.Location = new System.Drawing.Point(0, 0);
-            this.h1_pad_left_pnl.Name = "h1_pad_left_pnl";
-            this.h1_pad_left_pnl.Size = new System.Drawing.Size(36, 96);
-            this.h1_pad_left_pnl.TabIndex = 0;
-            // 
             // main_pnl
             // 
             this.main_pnl.AutoSize = true;
@@ -272,6 +232,54 @@
             this.cad_comp_pnl.Name = "cad_comp_pnl";
             this.cad_comp_pnl.Size = new System.Drawing.Size(346, 74);
             this.cad_comp_pnl.TabIndex = 0;
+            // 
+            // corpo_respiro_pnl
+            // 
+            this.corpo_respiro_pnl.Dock = System.Windows.Forms.DockStyle.Top;
+            this.corpo_respiro_pnl.Location = new System.Drawing.Point(35, 96);
+            this.corpo_respiro_pnl.Name = "corpo_respiro_pnl";
+            this.corpo_respiro_pnl.Size = new System.Drawing.Size(346, 12);
+            this.corpo_respiro_pnl.TabIndex = 6;
+            // 
+            // header_pnl
+            // 
+            this.header_pnl.Controls.Add(this.h1_lbl);
+            this.header_pnl.Controls.Add(this.h1_respiro_pnl);
+            this.header_pnl.Controls.Add(this.h1_img);
+            this.header_pnl.Controls.Add(this.h1_pad_left_pnl);
+            this.header_pnl.Dock = System.Windows.Forms.DockStyle.Top;
+            this.header_pnl.Location = new System.Drawing.Point(35, 0);
+            this.header_pnl.Name = "header_pnl";
+            this.header_pnl.Size = new System.Drawing.Size(346, 96);
+            this.header_pnl.TabIndex = 0;
+            // 
+            // h1_lbl
+            // 
+            this.h1_lbl.BackColor = System.Drawing.Color.Transparent;
+            this.h1_lbl.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h1_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.h1_lbl.Location = new System.Drawing.Point(94, 0);
+            this.h1_lbl.Name = "h1_lbl";
+            this.h1_lbl.Size = new System.Drawing.Size(252, 96);
+            this.h1_lbl.TabIndex = 1;
+            this.h1_lbl.Text = "MRP\nSaco de Carvão";
+            this.h1_lbl.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // h1_respiro_pnl
+            // 
+            this.h1_respiro_pnl.Dock = System.Windows.Forms.DockStyle.Left;
+            this.h1_respiro_pnl.Location = new System.Drawing.Point(82, 0);
+            this.h1_respiro_pnl.Name = "h1_respiro_pnl";
+            this.h1_respiro_pnl.Size = new System.Drawing.Size(12, 96);
+            this.h1_respiro_pnl.TabIndex = 2;
+            // 
+            // h1_pad_left_pnl
+            // 
+            this.h1_pad_left_pnl.Dock = System.Windows.Forms.DockStyle.Left;
+            this.h1_pad_left_pnl.Location = new System.Drawing.Point(0, 0);
+            this.h1_pad_left_pnl.Name = "h1_pad_left_pnl";
+            this.h1_pad_left_pnl.Size = new System.Drawing.Size(36, 96);
+            this.h1_pad_left_pnl.TabIndex = 0;
             // 
             // spacer_dir_spl
             // 
@@ -349,8 +357,8 @@
             this.cad_prod_tsmsi,
             this.est_prod_tsmsi});
             this.Funcoes_tsmi.Name = "Funcoes_tsmi";
-            this.Funcoes_tsmi.Size = new System.Drawing.Size(66, 20);
-            this.Funcoes_tsmi.Text = "Funções";
+            this.Funcoes_tsmi.Size = new System.Drawing.Size(67, 20);
+            this.Funcoes_tsmi.Text = "Módulos";
             // 
             // cad_comp_tsmsi
             // 
@@ -359,6 +367,7 @@
             this.cad_comp_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.cad_comp_tsmsi.Text = "Cadastro de Componentes";
             this.cad_comp_tsmsi.ToolTipText = "Abre o formulário de cadastro de novas peças";
+            this.cad_comp_tsmsi.Click += new System.EventHandler(this.CadComp_BtnClick);
             // 
             // est_comp_tsmsi
             // 
@@ -367,6 +376,7 @@
             this.est_comp_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.est_comp_tsmsi.Text = "Estoque de Componentes";
             this.est_comp_tsmsi.ToolTipText = "Abre o formulário de informações da peça selecionada";
+            this.est_comp_tsmsi.Click += new System.EventHandler(this.EstComp_BtnClick);
             // 
             // compras_tsmsi
             // 
@@ -374,6 +384,7 @@
             this.compras_tsmsi.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D3)));
             this.compras_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.compras_tsmsi.Text = "Compras";
+            this.compras_tsmsi.Click += new System.EventHandler(this.Compras_BtnClick);
             // 
             // cad_prod_tsmsi
             // 
@@ -381,6 +392,7 @@
             this.cad_prod_tsmsi.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D4)));
             this.cad_prod_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.cad_prod_tsmsi.Text = "Cadastro de Produtos";
+            this.cad_prod_tsmsi.Click += new System.EventHandler(this.CadProd_BtnClick);
             // 
             // est_prod_tsmsi
             // 
@@ -388,6 +400,7 @@
             this.est_prod_tsmsi.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D5)));
             this.est_prod_tsmsi.Size = new System.Drawing.Size(259, 22);
             this.est_prod_tsmsi.Text = "Estoque de Produtos";
+            this.est_prod_tsmsi.Click += new System.EventHandler(this.EstProd_BtnClick);
             // 
             // Ajuda_tsmi
             // 
@@ -426,14 +439,6 @@
             this.menu_spl.TabIndex = 4;
             this.menu_spl.TabStop = false;
             // 
-            // corpo_respiro_pnl
-            // 
-            this.corpo_respiro_pnl.Dock = System.Windows.Forms.DockStyle.Top;
-            this.corpo_respiro_pnl.Location = new System.Drawing.Point(35, 96);
-            this.corpo_respiro_pnl.Name = "corpo_respiro_pnl";
-            this.corpo_respiro_pnl.Size = new System.Drawing.Size(346, 12);
-            this.corpo_respiro_pnl.TabIndex = 6;
-            // 
             // Painel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -455,13 +460,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.h1_img)).EndInit();
             this.corpo_pnl.ResumeLayout(false);
             this.corpo_pnl.PerformLayout();
-            this.header_pnl.ResumeLayout(false);
             this.main_pnl.ResumeLayout(false);
             this.est_prod_pnl.ResumeLayout(false);
             this.cad_prod_pnl.ResumeLayout(false);
             this.compras_pnl.ResumeLayout(false);
             this.est_comp_pnl.ResumeLayout(false);
             this.cad_comp_pnl.ResumeLayout(false);
+            this.header_pnl.ResumeLayout(false);
             this.menuStrip.ResumeLayout(false);
             this.menuStrip.PerformLayout();
             this.ResumeLayout(false);

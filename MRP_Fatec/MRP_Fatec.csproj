@@ -54,10 +54,6 @@
     <StartupObject>MRP_Fatec.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ModuloCompras, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\3compras\ModuloCompras.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
